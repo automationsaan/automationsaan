@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saan Saechao, a.k.a AutomationSaan</h1>
-<h3 align="left">A passionate DevOps/SRE Engineer specializing in AWS, Azure, GCP, automation, process improvement, and incident management.</h3>
+<h3 align="left">A passionate DevOps/SRE Engineer specializing in AWS, Azure, GCP, information security, automation, process improvement, and incident management.</h3>
 
 - 📫 How to reach me **saan@saechao.fyi**
 
